@@ -4,6 +4,27 @@ INSTRUCTION: Summary: This component contains a h2 heading title for the CTA, a 
 <template>
     <section id="cta-component" class="bg-gray-50 dark:bg-gray-800 flex-1">
         <div id="cta-inner-container" class="max-w-screen-xl px-4 py-8 mx-auto lg:py-16 lg:px-6">
+            <div class="grid grid-cols-3 gap-4 mb-6">
+                <div class="flex-1">
+                    <nav class="flex" aria-label="Breadcrumb">
+                        <ol class="inline-flex items-center space-x-1 md:space-x-3">
+                            <li class="inline-flex items-center">
+                                <a href="#" class="inline-flex items-center text-sm font-medium text-gray-700 hover:text-purple-600 dark:text-gray-400 dark:hover:text-white">
+                                    <i class='bx bx-home-alt mr-2'></i>
+                                    Home
+                                </a>
+                            </li>
+                            <li>
+                                <div class="flex items-center">
+                                    <i class='bx bx-chevron-right text-gray-400'></i>
+                                    <a href="#" class="ml-1 text-sm font-medium text-gray-700 hover:text-purple-600 md:ml-2 dark:text-gray-400 dark:hover:text-white">Current Page</a>
+                                </div>
+                            </li>
+                        </ol>
+                    </nav>
+                </div>
+                <div class="col-span-2"></div>
+            </div>
             <div id="cta-content" class="max-w-screen-sm mx-auto text-center">
                 <div id="cta-title-container" class="flex">
                     <h2 id="cta-title" class="flex-1 mb-4 text-3xl font-extrabold leading-tight tracking-tight text-gray-900 dark:text-white">
