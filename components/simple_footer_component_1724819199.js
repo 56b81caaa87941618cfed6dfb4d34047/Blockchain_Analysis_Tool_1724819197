@@ -29,7 +29,11 @@ INSTRUCTION: Both of these lines are center aligned.
         </div>
 
         <!-- Main Content -->
-        <div class="flex-1">
+        <!-- Main Content -->
+        <div class="flex-1 flex flex-col items-center justify-center">
+            <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-lg shadow-md">
+                Hello World
+            </button>
             <footer id="footer-section" class="flex-1 bg-white dark:bg-gray-800">
                 <div id="footer-container" class="max-w-screen-xl p-4 py-6 mx-auto lg:py-16 md:p-8 lg:p-10">
                     <hr id="footer-divider" class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8">
@@ -49,6 +53,7 @@ INSTRUCTION: Both of these lines are center aligned.
                 </div>
             </footer>
         </div>
+    </div>
     </div>
 </template>
 
