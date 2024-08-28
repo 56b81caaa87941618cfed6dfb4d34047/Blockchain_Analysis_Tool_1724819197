@@ -21,6 +21,10 @@ INSTRUCTION: Both of these lines are center aligned.
                     <i class='bx bxs-contact mr-3'></i>
                     Contact
                 </a>
+                <button class="flex items-center px-6 py-2 mt-4 text-gray-700 dark:text-white hover:bg-gray-200 dark:hover:bg-gray-600 rounded-lg shadow-md">
+                    <i class='bx bx-message-rounded-dots mr-3'></i>
+                    Hey there
+                </button>
             </nav>
         </div>
 
