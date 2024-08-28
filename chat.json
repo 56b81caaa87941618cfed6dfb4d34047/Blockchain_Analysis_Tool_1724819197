@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Sticky header with the app logo and easy access to the navbar when scrolling\", \"checked\": true}, {\"feature\": \"Footer with links to privacy policy, terms of use, and social media icons\", \"checked\": false}, {\"feature\": \"Dropdown menu under 'Integrations' for specific blockchain platforms\", \"checked\": true}, {\"feature\": \"Search functionality within the navbar for quick navigation\", \"checked\": false}, {\"feature\": \"Mobile-responsive navbar for better user experience on mobile devices\", \"checked\": true}, {\"feature\": \"Breadcrumb navigation under the navbar for easy tracking of user's location on the site\", \"checked\": false}], \"input_token_count\": 237, \"output_token_count\": 148, \"time_taken\": \"0:00:10.618248\"}",
+        "message_id": "guest28082024043240",
+        "timestamp": "28082024043254",
+        "component_file_name": "simple_cta_component_1724819199",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the navbar to be fixed at the top of the page as the user scrolls or remain static?\", \"option1\": \"Fixed navbar\", \"option2\": \"Static navbar\"}, {\"question 2\": \"Do you have any specific design or theme in mind for the navbar that aligns with your current app's aesthetics?\", \"option1\": \"Yes, I will provide the design specifics.\", \"option2\": \"No, I'm open to suggestions based on the app's current design.\"}], \"input_token_count\": 283, \"output_token_count\": 115, \"time_taken\": \"0:00:08.332825\"}",
         "message_id": "guest28082024043240",
