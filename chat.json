@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the navbar to be fixed at the top of the page as the user scrolls or remain static?\", \"option1\": \"Fixed navbar\", \"option2\": \"Static navbar\"}, {\"question 2\": \"Do you have any specific design or theme in mind for the navbar that aligns with your current app's aesthetics?\", \"option1\": \"Yes, I will provide the design specifics.\", \"option2\": \"No, I'm open to suggestions based on the app's current design.\"}], \"input_token_count\": 283, \"output_token_count\": 115, \"time_taken\": \"0:00:08.332825\"}",
+        "message_id": "guest28082024043240",
+        "timestamp": "28082024043251",
+        "component_file_name": "simple_cta_component_1724819199",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a navbar with navlinks home, about, integrations and contact us page",
         "message_id": "guest28082024043240",
