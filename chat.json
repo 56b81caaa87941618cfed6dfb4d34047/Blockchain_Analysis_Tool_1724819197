@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the 'Hello World' button to serve a specific function when clicked, or should it be purely decorative?\", \"option1\": \"Yes, I would like it to perform a specific function.\", \"option2\": \"No, it should be purely decorative.\"}, {\"question 2\": \"Do you have a preference for the styling of the 'Hello World' button in terms of color scheme and font style?\", \"option1\": \"Yes, I have specific colors and font styles in mind.\", \"option2\": \"No, I'm open to suggestions based on the current design of the app.\"}], \"input_token_count\": 277, \"output_token_count\": 136, \"time_taken\": \"0:00:03.513134\"}",
+        "message_id": "guest28082024043057",
+        "timestamp": "28082024043104",
+        "component_file_name": "simple_footer_component_1724819199",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a button in the center that says hello world",
         "message_id": "guest28082024043057",
