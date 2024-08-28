@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a breadcrumb to the far left",
+        "message_id": "guest28082024043206",
+        "timestamp": "28082024043207",
+        "component_file_name": "simple_cta_component_1724819199",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Animate the 'Hello World' button with a subtle pulsing effect to draw attention\", \"checked\": true}, {\"feature\": \"Implement a tooltip that appears on hover over the 'Hello World' button, explaining its function\", \"checked\": false}, {\"feature\": \"Add a customizable theme option for the 'Hello World' button allowing users to change its color\", \"checked\": false}, {\"feature\": \"Include sound feedback when the 'Hello World' button is clicked for enhanced user interaction\", \"checked\": true}, {\"feature\": \"Develop a 'button pressed' visual effect to improve the tactile feedback of the 'Hello World' button\", \"checked\": true}, {\"feature\": \"Enable the 'Hello World' button to dynamically change its text based on user interaction or time of day\", \"checked\": false}], \"input_token_count\": 231, \"output_token_count\": 181, \"time_taken\": \"0:00:04.573030\"}",
         "message_id": "guest28082024043057",
