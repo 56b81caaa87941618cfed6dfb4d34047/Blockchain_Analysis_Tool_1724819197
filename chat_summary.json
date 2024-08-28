@@ -1,6 +1,51 @@
 [
     {
         "role": "user",
+        "content": "add a navbar with navlinks home, about, integrations and contact us page",
+        "message_id": "guest28082024043240",
+        "timestamp": "28082024043241",
+        "component_file_name": "simple_cta_component_1724819199",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Dynamic search bar for quick blockchain data lookup\", \"checked\": true}, {\"feature\": \"Real-time blockchain stats dashboard\", \"checked\": false}, {\"feature\": \"Interactive blockchain explorer with filtering options\", \"checked\": true}, {\"feature\": \"User customizable watchlist for tracking favorite blockchains\", \"checked\": false}, {\"feature\": \"Theme toggle button (Light/Dark mode)\", \"checked\": true}, {\"feature\": \"Notification alerts for blockchain events\", \"checked\": false}], \"input_token_count\": 228, \"output_token_count\": 114, \"time_taken\": \"0:00:02.831170\"}",
+        "message_id": "guest28082024043206",
+        "timestamp": "28082024043211",
+        "component_file_name": "simple_cta_component_1724819199",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a breadcrumb to the far left",
+        "message_id": "guest28082024043206",
+        "timestamp": "28082024043207",
+        "component_file_name": "simple_cta_component_1724819199",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Animate the 'Hello World' button with a subtle pulsing effect to draw attention\", \"checked\": true}, {\"feature\": \"Implement a tooltip that appears on hover over the 'Hello World' button, explaining its function\", \"checked\": false}, {\"feature\": \"Add a customizable theme option for the 'Hello World' button allowing users to change its color\", \"checked\": false}, {\"feature\": \"Include sound feedback when the 'Hello World' button is clicked for enhanced user interaction\", \"checked\": true}, {\"feature\": \"Develop a 'button pressed' visual effect to improve the tactile feedback of the 'Hello World' button\", \"checked\": true}, {\"feature\": \"Enable the 'Hello World' button to dynamically change its text based on user interaction or time of day\", \"checked\": false}], \"input_token_count\": 231, \"output_token_count\": 181, \"time_taken\": \"0:00:04.573030\"}",
+        "message_id": "guest28082024043057",
+        "timestamp": "28082024043105",
+        "component_file_name": "simple_footer_component_1724819199",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the 'Hello World' button to serve a specific function when clicked, or should it be purely decorative?\", \"option1\": \"Yes, I would like it to perform a specific function.\", \"option2\": \"No, it should be purely decorative.\"}, {\"question 2\": \"Do you have a preference for the styling of the 'Hello World' button in terms of color scheme and font style?\", \"option1\": \"Yes, I have specific colors and font styles in mind.\", \"option2\": \"No, I'm open to suggestions based on the current design of the app.\"}], \"input_token_count\": 277, \"output_token_count\": 136, \"time_taken\": \"0:00:03.513134\"}",
+        "message_id": "guest28082024043057",
+        "timestamp": "28082024043104",
+        "component_file_name": "simple_footer_component_1724819199",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
         "content": "add a button in the center that says hello world",
         "message_id": "guest28082024043057",
         "timestamp": "28082024043059",
@@ -45,54 +90,9 @@
         "div_action": ""
     },
     {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Interactive dashboard to display blockchain stats and metrics\", \"checked\": true}, {\"feature\": \"Dynamic search functionality to explore blockchain data\", \"checked\": false}, {\"feature\": \"Real-time notifications for blockchain events and updates\", \"checked\": false}, {\"feature\": \"User authentication for personalized blockchain analytics\", \"checked\": false}, {\"feature\": \"Night mode/Dark theme for better readability\", \"checked\": true}, {\"feature\": \"API integration for pulling live blockchain data\", \"checked\": false}], \"input_token_count\": 232, \"output_token_count\": 117, \"time_taken\": \"0:00:03.161850\"}",
-        "message_id": "guest28082024042804",
-        "timestamp": "28082024042810",
-        "component_file_name": "simple_footer_component_1724819199",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "add a sidebar with navlinks home, about and contact",
-        "message_id": "guest28082024042804",
-        "timestamp": "28082024042805",
-        "component_file_name": "simple_footer_component_1724819199",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "I'll add a sidebar with navlinks for home, about, and contact.",
-        "message_id": "guest28082024042804",
-        "timestamp": "28082024042806",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Advanced search filters to refine blockchain data analysis\", \"checked\": false}, {\"feature\": \"Real-time blockchain data updates and notifications\", \"checked\": true}, {\"feature\": \"Interactive data visualization charts for blockchain metrics\", \"checked\": false}, {\"feature\": \"Customizable dashboard to track favorite blockchain metrics\", \"checked\": true}, {\"feature\": \"Dark and light mode UI options for user preference\", \"checked\": false}, {\"feature\": \"User authentication system for personalized app experience\", \"checked\": false}], \"input_token_count\": 228, \"output_token_count\": 119, \"time_taken\": \"0:00:04.470208\"}",
-        "message_id": "guest28082024042713",
-        "timestamp": "28082024042720",
-        "component_file_name": "simple_header_component_1724819199",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button to be positioned within the app?\", \"option1\": \"At the top of the main screen\", \"option2\": \"At the bottom of the main screen\"}, {\"question 2\": \"What action should occur when the 'Hello World' button is pressed?\", \"option1\": \"Display a popup message saying 'Hello World'\", \"option2\": \"Navigate to a new screen with 'Hello World' details\"}], \"input_token_count\": 274, \"output_token_count\": 108, \"time_taken\": \"0:00:04.033531\"}",
-        "message_id": "guest28082024042713",
-        "timestamp": "28082024042720",
-        "component_file_name": "simple_header_component_1724819199",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
         "role": "summary",
-        "content": "In a recent conversation, the user requested the AI to add a button that says \"hello world.\" The AI acknowledged this request by saying, \"Great idea, I'll add a button that says hello world.\" Following this, the AI asked the user to describe the project in more detail, indicating a desire for further context.",
-        "timestamp": "28082024043059",
-        "message_id": "guest28082024043057"
+        "content": "The conversation involved a user discussing enhancements for their blockchain application with an AI assistant. The user requested an addition of a sidebar featuring navlinks for home, about, and contact, to which the AI confirmed it would implement this feature. Additionally, the user was presented with a list of optional features, including an interactive dashboard, dynamic search functionality, and user authentication, with some items marked as checked, such as night mode and real-time updates. The AI further asked two questions regarding the placement and function of a \"Hello World\" button, offering options for both positioning and the action on press. The user confirmed they wanted the button added. The AI expressed appreciation for the idea and requested more details about the project.",
+        "timestamp": "28082024043241",
+        "message_id": "guest28082024043240"
     }
 ]
